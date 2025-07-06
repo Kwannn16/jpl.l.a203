@@ -5,7 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="953e0f62-4a21-400b-af87-a0c160a311d5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/quandm35_fpl.l.a203/src/main/java/fa/training/utils/Constants.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/quandm35_fpl.l.a203/src/main/java/fa/training/services/CustomerService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/quandm35_fpl.l.a203/src/main/java/fa/training/services/OrderService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
